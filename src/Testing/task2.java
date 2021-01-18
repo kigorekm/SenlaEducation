@@ -13,5 +13,6 @@ public class task2 {
         one = one + three;
         System.out.println("new one = " + one);
         System.out.println(one);
+        System.out.println(two);
     }
 }
